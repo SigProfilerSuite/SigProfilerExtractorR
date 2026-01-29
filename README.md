@@ -1,3 +1,7 @@
+⚠️ **DEPRECATION NOTICE** ⚠️
+This repository is deprecated and no longer maintained as of v1.2.6. Its functionality is maintained in the Python version [SigProfilerExtractor](https://github.com/SigProfilerSuite/SigProfilerExtractor).
+<hr>
+<br>
 
 [![Docs](https://img.shields.io/badge/docs-latest-blue.svg)](https://osf.io/t6j7u/wiki/home/) 
 [![License](https://img.shields.io/badge/License-BSD\%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
